@@ -1,3 +1,4 @@
+警告:此外掛僅兼容4.3.2以後之版本的blender
 安裝與使用
 安裝外掛
 將此插件的壓縮包（ZIP 文件）下載到本地。
@@ -8,6 +9,8 @@
 配置 API Key
 在工具面板中，找到 GPT Assistant。
 點擊 Set API Key，輸入您的 OpenAI API Key（可於 OpenAI 官網 獲取）。
+獲取後您必須於下列url支付十美金才能獲取讓API能夠啟用並處於工作狀態的積分。
+https://platform.openai.com/settings/organization/billing/overview
 點擊 保存 即完成設定。
 運行外掛
 在 工具面板 > GPT Assistant 中，輸入您需要執行的任務或指令：
